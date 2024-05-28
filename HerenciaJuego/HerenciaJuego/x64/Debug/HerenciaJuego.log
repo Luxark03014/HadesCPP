@@ -1,0 +1,6 @@
+﻿  HerenciaJuego.cpp
+D:\M5\C++\HerenciaJuego\HerenciaJuego\HerenciaJuego.cpp(31,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+D:\M5\C++\HerenciaJuego\HerenciaJuego\HerenciaJuego.cpp(229,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+D:\M5\C++\HerenciaJuego\HerenciaJuego\HerenciaJuego.cpp(240,9): warning C4101: 'yInicial': variable local sin referencia
+D:\M5\C++\HerenciaJuego\HerenciaJuego\HerenciaJuego.cpp(239,9): warning C4101: 'xInicial': variable local sin referencia
+  HerenciaJuego.vcxproj -> D:\M5\C++\HerenciaJuego\x64\Debug\HerenciaJuego.exe
